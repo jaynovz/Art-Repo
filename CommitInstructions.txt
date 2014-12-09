@@ -1,0 +1,19 @@
+To add a modified file to your commit use the command
+-- git add <filename>
+
+To add all modified files to your commit use the command
+-- git add .
+
+
+-----------------------------------------------------------
+
+To commit your local changes to your git (you do this to allow you to revert to a previous change, better than ctrl+z
+or before a push)
+
+-- git commit -m "A descriptive commit message for you to read later like: Changed hair to be better"
+
+-----------------------------------------------------------
+
+To check what files have been modified
+
+-- git status

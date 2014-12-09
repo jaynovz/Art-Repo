@@ -17,3 +17,9 @@ or before a push)
 To check what files have been modified
 
 -- git status
+
+-----------------------------------------------------------
+
+To push the changes to github (so bob can see them)
+
+-- git push
